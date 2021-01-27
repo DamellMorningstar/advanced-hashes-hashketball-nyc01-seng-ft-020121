@@ -1,4 +1,4 @@
-# Write your code below game_hash
+ # Write your code below game_hash
 require 'pry'
 
 def game_hash
@@ -188,6 +188,7 @@ end
     end
   end
 end
+
   def big_shoe_rebounds
     biggest_shoe = 0
     player_rebounds = 0
